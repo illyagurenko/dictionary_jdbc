@@ -14,7 +14,7 @@
 * Безопасная работа с запросами через `PreparedStatement` (защита от SQL-инъекций).
 
 ## Как запустить проект
-1. Склонируйте репозиторий: `git clone https://github.com/логин/JdbcDictionary.git`
+1. Склонируйте репозиторий: `git clone https://github.com/логин/dictionary_jdbc.git`
 2. Создайте базу данных `learn_db` в PostgreSQL.
 3. Выполните скрипт из файла `init.sql`.
 4. Установите переменную окружения `DB_PASSWORD` со значением пароля от PostgreSQL.
